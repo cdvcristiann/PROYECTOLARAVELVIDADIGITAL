@@ -1,0 +1,124 @@
+#parallax-image{
+    background-image: url("../img/VD-SLIDERTEST.png");
+    height: 600px;
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#nav-image{
+    background-image: url("../img/VD-SLIDER.png");
+    height: 89px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.scrollspy-container {
+	height: auto;
+    overflow: auto;
+	background: white;
+}
+.scrollspy-example {
+	width: auto;
+}
+
+h5 , p{
+    text-align:center;
+}
+
+p{
+    color:#FF0000;
+}
+
+#centrar{text-align:center;
+    color:white;
+    
+}
+.centrar{
+    text-align:center;
+    color:white;
+    line-height: 15px;
+}
+.centrarform{
+    text-align: center;
+}
+
+
+#boton-personalizado {
+    text-decoration:none;
+    padding: 5px 140px;
+    font-size: smaller;
+    }
+
+.imagenmitad{
+    background-image: url("../img/VD-SLIDERTEST.png");
+    margin-bottom: 50px;
+    height: 260px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.col-sm{
+    text-align:center;
+    color: rgb(142, 146, 142);
+}
+.coloralineacion{
+    color: gray;
+    margin-bottom: 60px;
+}
+
+#fondo{
+    background-image: url("../img/VD-SLIDER.png");
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#email, #password, #botonlogin{
+    border-radius: 50px;
+    -webkit-border-radius:150px;
+    -moz-border-radius:150px;
+    -o-border-radius:150px;
+    -ms-botder-radius:150px;
+    text-align: center;
+    height: 50px;
+    width: 460px;
+}
+
+
+.html {
+    min-height: 100%;
+    position: relative;
+  }
+#body {
+    margin: 0;
+    margin-bottom: 20px;
+  }
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 20px;
+    color: white;
+  }
+
+#error{
+    background-image: url("../img/engranaje.gif");
+    height: 600px;
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+}
